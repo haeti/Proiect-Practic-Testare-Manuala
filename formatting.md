@@ -12,13 +12,14 @@ API Documentation: link to API documentation if exists or N/A
 
 Tools used:
 
-**Functional specifications**
+**<h1>Functional specifications</h1>**
+
 
 
 
 -> enter here the functional specifications created in JIRA
 
-**1 Testing section**
+**<h1>1 Testing section</h1>**
 
 **1.1 Test Planning**
 
