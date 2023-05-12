@@ -1,4 +1,5 @@
-# Proiect-Practic-Testare-Manuala
+# Final project for ITF Manual Testing Course
+(***)
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [Application name](www.gogle.com) 
@@ -36,12 +37,15 @@ required to complete testing, and the risks associated with the plan
     - Project risks:
     
  **1.1.6 Evaluating entry criteria**
+ 
  The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
  
  **1.2 Test Monitoring and Control**
+ 
  It will be done by generating periodic reports that reflect the current status of the test.
  
  **1.3 Test Analysis**
+ 
  The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
  
  
