@@ -4,7 +4,7 @@
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
-Application under test: [Application name](www.gogle.com) 
+Application under test: [Nala](www.nala.ro) 
 
 API Documentation: link to API documentation if exists or N/A
 
@@ -23,12 +23,14 @@ Tools used:
 
 **<h2>1.1 Test Planning</h2>**
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the "User registration", "User login", "Access to user account details", "Search/ Filter options" modules from the Nala application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule
-required to complete testing, and the risks associated with the plan
+required to complete testing, and the risks associated with the plan.
 
 **1.1.1 Roles assigned to the project and persons allocated**
+
+Corina will test: "User registration", "User login", "Access to user account details", "Search/ Filter options" modules 
 
 **1.1.2 Entry criteria defined**
 
@@ -41,7 +43,7 @@ required to complete testing, and the risks associated with the plan
     
 **1.1.5 Risks detected**
 
-  - Project risks:
+  - Product risks: 
   - Project risks:
     
  **1.1.6 Evaluating entry criteria**
